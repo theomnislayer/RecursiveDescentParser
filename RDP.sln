@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDP", "RDP\RDP.csproj", "{B0F0A5BC-B467-4F6F-B842-2330641B33C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDP", "RDP\RDP.csproj", "{B0F0A5BC-B467-4F6F-B842-2330641B33C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdpSubDiv", "RdpSubDiv\RdpSubDiv.csproj", "{84963F56-F4BD-4629-861E-6A35D40F22E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RdpSubDiv", "RdpSubDiv\RdpSubDiv.csproj", "{84963F56-F4BD-4629-861E-6A35D40F22E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{DFDEEFFA-B359-4BEF-9422-F82321203845}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{84963F56-F4BD-4629-861E-6A35D40F22E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84963F56-F4BD-4629-861E-6A35D40F22E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84963F56-F4BD-4629-861E-6A35D40F22E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDEEFFA-B359-4BEF-9422-F82321203845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDEEFFA-B359-4BEF-9422-F82321203845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDEEFFA-B359-4BEF-9422-F82321203845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDEEFFA-B359-4BEF-9422-F82321203845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

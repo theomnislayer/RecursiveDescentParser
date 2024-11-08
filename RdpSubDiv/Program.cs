@@ -1,4 +1,4 @@
-﻿using RDP;
+﻿using RdpSubDiv;
 
 Console.WriteLine("Enter a value:");
 string input = Console.ReadLine() ?? string.Empty;
