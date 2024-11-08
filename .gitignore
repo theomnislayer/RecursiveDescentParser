@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RDP/.vs
+/RDP/bin
+/RDP/obj/
+/RDP/obj
+/RdpSubDiv/bin
+/RdpSubDiv/obj

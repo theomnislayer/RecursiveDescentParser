@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDP", "RDP\RDP.csproj", "{B0F0A5BC-B467-4F6F-B842-2330641B33C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdpSubDiv", "RdpSubDiv\RdpSubDiv.csproj", "{84963F56-F4BD-4629-861E-6A35D40F22E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F0A5BC-B467-4F6F-B842-2330641B33C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F0A5BC-B467-4F6F-B842-2330641B33C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F0A5BC-B467-4F6F-B842-2330641B33C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F0A5BC-B467-4F6F-B842-2330641B33C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84963F56-F4BD-4629-861E-6A35D40F22E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84963F56-F4BD-4629-861E-6A35D40F22E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84963F56-F4BD-4629-861E-6A35D40F22E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84963F56-F4BD-4629-861E-6A35D40F22E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7B38917-F7E4-431C-8ED0-D2871D8831D2}
+	EndGlobalSection
+EndGlobal
